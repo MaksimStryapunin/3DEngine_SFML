@@ -59,7 +59,7 @@ set_target_properties(libssh2::libssh2_static PROPERTIES
 set_property(TARGET libssh2::libssh2_static APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(libssh2::libssh2_static PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "C"
-  IMPORTED_LOCATION_DEBUG "C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-build/lib/libssh2.lib"
+  IMPORTED_LOCATION_DEBUG "C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-build/lib/libssh2d.lib"
   )
 
 # This file does not depend on other imported targets which have

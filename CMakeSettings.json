@@ -1,0 +1,16 @@
+{
+  "name": "x64-Debug",
+  "generator": "Visual Studio 16 2019",
+  "configurationType": "Debug",
+  "buildRoot": "${projectDir}\\out\\build\\${name}",
+  "installRoot": "${projectDir}\\out\\install\\${name}",
+  "cmakeCommandArgs": "",
+  "buildCommandArgs": "",
+  "ctestCommandArgs": "",
+  "environment": [
+    {
+      "name": "CMAKE_POLICY_VERSION_MINIMUM",
+      "value": "3.5"
+    }
+  ]
+}

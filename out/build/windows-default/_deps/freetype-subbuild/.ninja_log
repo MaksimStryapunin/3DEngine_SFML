@@ -1,0 +1,21 @@
+# ninja log v5
+0	73	8148331094430947	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	a314cb439153a375
+0	73	8148331094430947	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	a314cb439153a375
+73	16864	8148331262333264	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	940298b5ad33a145
+73	16864	8148331262333264	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	940298b5ad33a145
+16866	17027	0	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	69cac51eb81dd305
+16866	17027	0	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	69cac51eb81dd305
+17027	17101	8148331264706337	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	1524ecfc6f71fe25
+17027	17101	8148331264706337	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	1524ecfc6f71fe25
+17101	17178	8148331265481325	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	1154594253705da2
+17101	17178	8148331265481325	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	1154594253705da2
+17178	17255	8148331266256539	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	1fa6d1220f58636e
+17178	17255	8148331266256539	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	1fa6d1220f58636e
+17255	17321	8148331266908144	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	2ee36a58e3b957bb
+17255	17321	8148331266908144	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	2ee36a58e3b957bb
+17321	17399	8148331267687139	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	7ba4e2198e59e560
+17321	17399	8148331267687139	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	7ba4e2198e59e560
+17399	17492	8148331268621568	CMakeFiles/freetype-populate-complete	a2498ff97cbad7e0
+17399	17492	8148331268621568	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	a2498ff97cbad7e0
+17399	17492	8148331268621568	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	a2498ff97cbad7e0
+17399	17492	8148331268621568	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	a2498ff97cbad7e0

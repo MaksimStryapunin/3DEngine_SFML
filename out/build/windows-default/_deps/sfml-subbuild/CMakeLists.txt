@@ -27,7 +27,7 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 
 include(ExternalProject)
 ExternalProject_Add(sfml-populate
-                     "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/SFML/SFML.git" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "GIT_TAG" "3.1.0"
+                     "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/SFML/SFML.git" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "GIT_TAG" "master" "CMAKE_ARGS" "-DCMAKE_POLICY_VERSION_MINIMUM=3.22"
                     SOURCE_DIR          "C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-src"
                     BINARY_DIR          "C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-build"
                     CONFIGURE_COMMAND   ""

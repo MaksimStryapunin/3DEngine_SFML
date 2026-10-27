@@ -178,7 +178,7 @@ foreach(component ${FIND_SFML_COMPONENTS_SORTED})
 endforeach()
 
 if(SFML_FOUND)
-    set(SFML_VERSION_IS_RELEASE ON)
+    set(SFML_VERSION_IS_RELEASE OFF)
 else()
     if(SFML_FIND_REQUIRED)
         # fatal error
@@ -190,5 +190,5 @@ else()
 endif()
 
 if(SFML_FOUND AND NOT SFML_FIND_QUIETLY)
-    message(STATUS "Found SFML 3.1.0 in ${CMAKE_CURRENT_LIST_DIR}")
+    message(STATUS "Found SFML 3.2.0 in ${CMAKE_CURRENT_LIST_DIR}")
 endif()

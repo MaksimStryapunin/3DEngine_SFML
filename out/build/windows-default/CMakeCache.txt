@@ -14,6 +14,15 @@
 # EXTERNAL cache entries
 ########################
 
+//Value Computed by CMake
+3DEngine_SFML_BINARY_DIR:STATIC=C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default
+
+//Value Computed by CMake
+3DEngine_SFML_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+3DEngine_SFML_SOURCE_DIR:STATIC=C:/Users/Максим/source/repos/3DEngine_SFML
+
 //Build the Unicode data generator tool
 BUILD_GENERATOR:BOOL=OFF
 
@@ -198,19 +207,19 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=My3DEngine
+CMAKE_PROJECT_NAME:STATIC=3DEngine_SFML
 
 //Value Computed by CMake
 CMAKE_PROJECT_SPDX_LICENSE:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_VERSION:STATIC=3.1.0
+CMAKE_PROJECT_VERSION:STATIC=3.0.0
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION_MAJOR:STATIC=3
 
 //Value Computed by CMake
-CMAKE_PROJECT_VERSION_MINOR:STATIC=1
+CMAKE_PROJECT_VERSION_MINOR:STATIC=0
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION_PATCH:STATIC=0
@@ -546,15 +555,6 @@ Mbed TLS_SOURCE_DIR:STATIC=C:/Users/Максим/source/repos/3DEngine_SFML/out/
 
 //The directory containing a CMake configuration file for MbedTLS.
 MbedTLS_DIR:PATH=C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/CMakeFiles/pkgRedirects
-
-//Value Computed by CMake
-My3DEngine_BINARY_DIR:STATIC=C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default
-
-//Value Computed by CMake
-My3DEngine_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-My3DEngine_SOURCE_DIR:STATIC=C:/Users/Максим/source/repos/3DEngine_SFML
 
 //OpenGL library for win32
 OPENGL_gl_LIBRARY:STRING=opengl32
