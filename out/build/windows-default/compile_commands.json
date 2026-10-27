@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default",
+  "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DSB_CONFIG_UNITY -IC:\\Users\\Максим\\source\\repos\\3DEngine_SFML\\out\\build\\windows-default\\_deps\\sheenbidi-src\\Headers -IC:\\Users\\Максим\\source\\repos\\3DEngine_SFML\\out\\build\\windows-default\\_deps\\sheenbidi-src\\Source /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /utf-8 -w /Fo_deps\\sheenbidi-build\\CMakeFiles\\SheenBidi.dir\\Source\\SheenBidi.c.obj /Fd_deps\\sheenbidi-build\\CMakeFiles\\SheenBidi.dir\\ /FS -c C:\\Users\\Максим\\source\\repos\\3DEngine_SFML\\out\\build\\windows-default\\_deps\\sheenbidi-src\\Source\\SheenBidi.c",
+  "file": "C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sheenbidi-src/Source/SheenBidi.c",
+  "output": "C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sheenbidi-build/CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.obj"
+}
+]

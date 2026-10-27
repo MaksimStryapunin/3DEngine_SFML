@@ -1,0 +1,3 @@
+C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir

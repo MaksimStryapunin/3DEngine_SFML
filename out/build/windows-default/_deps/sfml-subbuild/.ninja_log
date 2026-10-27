@@ -1,0 +1,21 @@
+# ninja log v5
+1	84	8148172143189796	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	d76dd0c70dffb7ea
+1	84	8148172143189796	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	d76dd0c70dffb7ea
+85	15882	8148172301170403	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	23b37e17536c1d90
+85	15882	8148172301170403	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	23b37e17536c1d90
+15884	16056	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	e176ae10e22ca656
+15884	16056	0	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	e176ae10e22ca656
+16056	16135	8148172303700923	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	732fa2d2a87a785d
+16056	16135	8148172303700923	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	732fa2d2a87a785d
+16135	16212	8148172304462945	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	77add8f531d2bfa9
+16135	16212	8148172304462945	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	77add8f531d2bfa9
+16212	16287	8148172305218480	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	38a6a38e7d261ed2
+16212	16287	8148172305218480	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	38a6a38e7d261ed2
+16287	16361	8148172305950726	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	8d5e9574e3c0bb80
+16287	16361	8148172305950726	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	8d5e9574e3c0bb80
+16361	16433	8148172306663677	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	6498b5fb57eebbe2
+16361	16433	8148172306663677	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	6498b5fb57eebbe2
+16433	16534	8148172307685173	CMakeFiles/sfml-populate-complete	d733d976ba7da769
+16433	16534	8148172307685173	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	d733d976ba7da769
+16433	16534	8148172307685173	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	d733d976ba7da769
+16433	16534	8148172307685173	C:/Users/Максим/source/repos/3DEngine_SFML/out/build/windows-default/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	d733d976ba7da769
