@@ -1,0 +1,19 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 12
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/sfml-build/src/SFML",
+		"source" : "out/build/windows-default/_deps/sfml-src/src/SFML"
+	}
+}
